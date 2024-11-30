@@ -1,0 +1,4 @@
+```shell
+$ time gleam run
+```
+
